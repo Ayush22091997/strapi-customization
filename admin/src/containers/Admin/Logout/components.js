@@ -15,10 +15,10 @@ const Wrapper = styled.div`
       width: 100%;
       padding-left: 20px;
       padding-right: 20px;
-      background: #0072AA;
+      background: white;
       border: none;
       border-radius: 0;
-      color: white;
+      color: black;
       font-size: 14px;
       font-weight: 500;
       text-align: right;

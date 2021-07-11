@@ -41,7 +41,7 @@ const Block = styled.div`
       height: 3px;
       margin-top: 4px;
       display: block;
-      background: #f0b41e;
+      background: #21AA47;
     }
   }
 
@@ -59,6 +59,7 @@ const Block = styled.div`
 
 const Container = styled.div`
   padding: 47px 13px 0 13px;
+  background-color: #0072AA;
   > div {
     margin: 0;
   }
@@ -154,7 +155,7 @@ const ALink = styled.a`
   ${({ type }) =>
     type === 'blog' &&
     css`
-      background-color: #333740;
+      background-color: #21AA47;
     `}
 
   ${({ type }) =>

@@ -66,7 +66,7 @@ function ListView() {
     onClick: () => handleGoTo('create'),
     color: 'primary',
     type: 'button',
-    icon: <Plus fill="#007eff" width="11px" height="11px" />,
+    icon: <Plus fill="#0072AA" width="11px" height="11px" />,
     Component: props => {
       if (canCreate) {
         return <Button {...props} />;

@@ -6,7 +6,7 @@ const NavTopRightWrapper = styled.div`
   right: 0;
   display: flex;
   z-index: 1050;
-  background-color: #0072AA;
+  background-color: white;
 `;
 
 export default NavTopRightWrapper;

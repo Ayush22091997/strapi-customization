@@ -18,7 +18,7 @@ const Wrapper = styled.div`
     list-style-type: none;
     & + button {
       padding: 0;
-      color: #007eff;
+      color: #0072AA;
       font-size: 13px;
       font-weight: 500;
       outline: 0;

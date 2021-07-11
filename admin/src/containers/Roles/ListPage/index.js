@@ -133,7 +133,7 @@ const RoleListPage = () => {
         <ListButton>
           <Button
             onClick={handleToggleModalForCreatingRole}
-            icon={<Plus fill="#007eff" width="11px" height="11px" />}
+            icon={<Plus fill="#0072AA" width="11px" height="11px" />}
             label={formatMessage({
               id: 'Settings.roles.list.button.add',
               defaultMessage: 'Add new role',

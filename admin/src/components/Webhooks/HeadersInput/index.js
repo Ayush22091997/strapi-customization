@@ -116,7 +116,7 @@ const HeadersInput = ({ errors, name, onClick, onChange, onRemove, value }) => {
         })}
       </ul>
       <button onClick={() => onClick(name)} type="button">
-        <Plus fill="#007eff" width="10px" />
+        <Plus fill="#0072AA" width="10px" />
         <FormattedMessage
           id="Settings.webhooks.create.header"
           defaultMessage="Create a new header"
