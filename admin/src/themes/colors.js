@@ -6,8 +6,8 @@ const colors = {
   orange: '#ff5d00',
   lightOrange: '#f64d0a',
   yellow: '#ffd500',
-  green: '#6dbb1a',
-  blue: '#0097f7',
+  green: '#21AA47',
+  blue: '#0072AA',
   teal: '#5bc0de',
   pink: '#ff5b77',
   purple: '#613d7c',
@@ -28,7 +28,7 @@ const colors = {
   lightestBlue: '#e4f0fc',
   lightBlue: '#e6f0fb',
   mediumBlue: '#0072AA',
-  darkBlue: '#aed4fb',
+  darkBlue: '#0072AA',
   pale: '#f7f8f8',
   content: {
     background: '#fafafb',
@@ -44,7 +44,7 @@ const colors = {
     gray: '#535f76',
     'blue-darker': '#18202e',
     'blue-dark': '#151c2e',
-    blue: '#0097f7',
+    blue: '#0072AA',
     green: '#21AA47'
   },
 };

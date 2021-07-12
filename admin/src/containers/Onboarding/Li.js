@@ -31,7 +31,7 @@ const Li = styled.li`
       z-index: 1;
       width: 100%;
       height: 100%;
-      background-color: rgba(#0e7de7, 0.8);
+      background-color: rgba(#21AA47, 0.8);
     }
     img {
       position: relative;

@@ -104,7 +104,7 @@ const Wrapper = styled.div`
       height: 100%;
       border-radius: 50%;
       color: white;
-      background: #0e7de7;
+      background: #21AA47;
       box-shadow: 0px 2px 4px 0px rgba(227, 233, 243, 1);
       i,
       svg {
